@@ -1,5 +1,5 @@
 # OpenCV-Lemons
-## Segmenting and Counting OpenCV in an Image
+## Segmenting and Counting Lemons in an Image
 
 ### Install
 
@@ -13,7 +13,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `OpenCV-Lemons//` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `OpenCV-Lemons/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook final.ipynb
